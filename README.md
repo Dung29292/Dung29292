@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tiến Dũng Nguyễn Văn 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Network+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Information+Technology+Student;Web+%26+Embedded+Developer;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@
 
 ---
 
+## 👨‍💻 About Me
+
+```javascript
 const tiendung = {
     languages: ["C", "C++", "C#", "Java", "Python", "JavaScript", "HTML/CSS"],
     languagesSpoken: ["English (Basic)", "Korean (Basic)"],
@@ -21,7 +24,7 @@ const tiendung = {
         web: ["ASP.NET", "Spring Boot"],
         embeddedAndIoT: ["Arduino", "ESP32", "Windows Programming"],
         database: ["SQL Server", "MySQL"],
-        toolsAndSoftware: ["Git", "Microsoft Project", "Microsoft Office (Word, Excel, PowerPoint)"]
+        toolsAndSoftware: ["Git", "Microsoft Project", "Microsoft Office"]
     },
     currentFocus: "Building web applications, embedded systems, and project management.",
     motto: "Continuous learning and building solution-driven software."
