@@ -14,17 +14,15 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```javascript
 const tiendung = {
-    code: ["Java", "Spring Boot", "HTML/CSS", "JavaScript"],
+    languages: ["C", "C++", "C#", "Java", "Python", "JavaScript", "HTML/CSS"],
+    languagesSpoken: ["English (Basic)", "Korean (Basic)"],
     technologies: {
-        backend: ["Spring Security", "Spring Data JPA", "Thymeleaf", "ASP.NET Core"],
-        database: ["MySQL", "H2 Database"],
-        tools: ["Git", "GitHub Desktop", "Maven", "NetBeans", "Cisco Packet Tracer"],
-        networking: ["OSPFv2", "VLSM Subnetting", "IPv6 Protocols"]
+        web: ["ASP.NET", "Spring Boot"],
+        embeddedAndIoT: ["Arduino", "ESP32", "Windows Programming"],
+        database: ["SQL Server", "MySQL"],
+        toolsAndSoftware: ["Git", "Microsoft Project", "Microsoft Office (Word, Excel, PowerPoint)"]
     },
-    currentFocus: "Building scalable web applications and enhancing network design architecture.",
+    currentFocus: "Building web applications, embedded systems, and project management.",
     motto: "Continuous learning and building solution-driven software."
 };
