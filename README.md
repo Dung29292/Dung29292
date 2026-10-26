@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tiến Dũng Nguyễn Văn 👋</h1>
+<h1 align="center">Hi there, I'm Nguyễn Văn Tiến Dũng 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Information+Technology+Student;Web+%26+Embedded+Developer;Continuous+Learner" alt="Typing SVG" />
